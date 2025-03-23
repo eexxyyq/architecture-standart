@@ -1,0 +1,214 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Страница — 1" id="DlWzmhXtQJDCh6Cw-BRv">
+    <mxGraphModel dx="2049" dy="2465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" y="-110" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-7">
+          <mxGeometry width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-1" value="Продажи и маркетинг" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-7">
+          <mxGeometry width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-2" value="Продажи через кол-цент" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-7">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-3" value="Продажи в сети отделений" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-7">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-4" value="Digital-оповещения клиентов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-7">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="-110" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-8">
+          <mxGeometry width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-10" value="Поддержка операционных процессов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-8">
+          <mxGeometry width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-11" value="Обслуживание депозитных процессов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-8">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-12" value="Обслуживание кредитных процессов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-8">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-13" value="Управление договорами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-8">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="10" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-17" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Управление обслуживанием в сети отделений&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-24" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-25" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;АБС&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-26" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-27" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;АБС&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-28" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-29" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;АБС&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-30">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="70" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-32" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Управление IT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-33" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;Система кол-центра&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-34" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-35" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;СМС-шлюз&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-36" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;Интернет-банк&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-37" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-38" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-31">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="130" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-40" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Управление депозитных продуктов&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-41" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-42" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-43" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-44" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;АБС&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-45" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-46" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;АБС&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-39">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="190" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-48" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Управление кредитных продуктов&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-49" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-50" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-51" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-52" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-53" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;АБС&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-54" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-47">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="250" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-56" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Кол-центр&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-57" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;Система кол-центра&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-58" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-59" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;Система кол-центра&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-60" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-61" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-62" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-55">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="310" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-64" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Партнёрский кол-центр&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-65" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;Система партнерского кол-центра&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-66" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-67" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-68" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-69" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-70" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-63">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="370" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-72" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Команда цифровой трансформации&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-73" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-74" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry x="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-75" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-76" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;table style=&quot;border-collapse: collapse; color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;padding: calc(var(--ds-md-zoom)*6px)calc(var(--ds-md-zoom)*12px); border-bottom: 1px solid rgb(var(--ds-rgb-label-3));&quot;&gt;Прототип MVP интернет-банка&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry x="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-77" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5z0PPQkf3hOUktLbjqYC-78" value="-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5z0PPQkf3hOUktLbjqYC-71">
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
