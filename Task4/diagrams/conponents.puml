@@ -1,0 +1,20 @@
+@startuml components.puml
+!include <C4/C4_Component>
+
+title Компоненты передачи ставок
+
+Container(абс, "АБС", "Oracle + PL/SQL") {
+  Component(выгрузка, "Модуль выгрузки", "PL/SQL", "Генерация CSV")
+  Component(шифратор, "Шифратор", "Python", "AES-256")
+}
+
+ContainerDb(sftp, "SFTP-сервер", "GoAnywhere")
+ContainerDb(redis, "Кэш ставок", "Redis")
+
+System_Ext(партнёр, "Партнёрский кол-центр", "Импорт CSV")
+
+Rel(выгрузка, шифратор, "Передаёт файл", "CSV")
+Rel(шифратор, sftp, "Отправляет файл", "SFTP")
+Rel(выгрузка, redis, "Обновляет данные", "JDBC")
+Rel(redis, партнёр, "API для кол-центра", "REST")
+@enduml

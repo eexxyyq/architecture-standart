@@ -1,0 +1,18 @@
+!include <C4/C4_Context>
+
+title Контекст передачи ставок
+
+System_Boundary(банк, "Банк «Стандарт»") {
+  System(абс, "АБС", "Генерация ставок")
+  System(sftp, "SFTP-сервер", "Хранение файлов")
+  System(redis, "Кэш ставок", "Redis")
+}
+
+System_Ext(кол_центр, "Кол-центр", "Java + PostgreSQL")
+System_Ext(партнёр, "Партнёрский кол-центр", "Внешняя CRM")
+
+Rel(абс, sftp, "Выгружает файл ставок", "CSV (шифрованный)")
+Rel(абс, redis, "Обновляет кэш", "JDBC")
+Rel(redis, кол_центр, "Предоставляет API", "REST")
+Rel(sftp, партнёр, "Передаёт файл", "SFTP")
+@enduml
